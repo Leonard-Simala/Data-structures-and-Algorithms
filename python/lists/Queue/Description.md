@@ -20,6 +20,6 @@ If the queue is empty, then it is said to be an Underflow condition.
 ## Implementation
 
 can be implemented in three ways as  
-**list**  
-**collections.deque**  
-**queue.Queue**  
+**list** - queue1.py  
+**collections.deque** - queue2.py  
+**queue.Queue** - queue3.py  
